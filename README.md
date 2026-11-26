@@ -31,6 +31,7 @@ L'objectif est de découvrir et de pratiquer les principales activités d'un ana
 ## 📐 Architecture du Projet
 
 ![Architecture du Projet](./architecture.png)
+![Architecture du Projet](./Gemini_Generated_Image_edb5teedb5teedb5.jpg)
 
 ## 📊 État d'avancement
 
